@@ -1,2 +1,2 @@
 # Leetcode_Difficulty_Changer_Extension
-Leetcode's every proble is now easy.
+Leetcode's every problem is now easy.
